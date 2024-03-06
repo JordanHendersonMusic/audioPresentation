@@ -169,3 +169,8 @@ First hear a WAV file, then an MP3 and 16kbps, and finally Opus at 16kbps. <!-- 
     <source src="assets/Test_mp3_opus_16kbps.wav" type="audio/wav">
 </audio><!-- .element: class="fragment" -->
 
+---
+
+Thank you!
+
+<audio controls> <source src="assets/albinoni_8.mp3" type="audio/mp3"> </audio>
